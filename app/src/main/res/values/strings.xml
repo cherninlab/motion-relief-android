@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Motion Relief</string>
+    <string name="subtitle">A tiny first prototype focused on the simplest possible enable and disable flow.</string>
+    <string name="state_label">Current state</string>
+    <string name="state_on">Enabled</string>
+    <string name="state_off">Disabled</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="enabled_supporting_text">Relief mode is on. Later this can expand into a quick tile, widget, and always-on behavior.</string>
+    <string name="disabled_supporting_text">Relief mode is off. The first goal is a fast, calm, frictionless start.</string>
+    <string name="launcher_background">#111111</string>
+</resources>

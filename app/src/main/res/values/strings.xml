@@ -1,13 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Motion Relief</string>
-    <string name="subtitle">A tiny first prototype focused on the simplest possible enable and disable flow.</string>
-    <string name="state_label">Current state</string>
-    <string name="state_on">Enabled</string>
-    <string name="state_off">Disabled</string>
-    <string name="start">Start</string>
-    <string name="stop">Stop</string>
-    <string name="enabled_supporting_text">Relief mode is on. Later this can expand into a quick tile, widget, and always-on behavior.</string>
-    <string name="disabled_supporting_text">Relief mode is off. The first goal is a fast, calm, frictionless start.</string>
-    <string name="launcher_background">#111111</string>
+    <string name="subtitle">Ultra-minimal visual relief prototype with a fast entry into a live artificial horizon.</string>
+    <string name="state_label">Mode</string>
+    <string name="state_ready">Ready</string>
+    <string name="start_relief_mode">Start relief mode</string>
+    <string name="home_supporting_text">Open a calm full-screen horizon that reacts to device motion. Keep the phone steady in front of you and focus on the center guide.</string>
+    <string name="relief_title">Relief mode</string>
+    <string name="relief_hint">Use the center guide as a stable reference. Press back to exit.</string>
+    <string name="sensor_unavailable">Motion sensors are unavailable on this device.</string>
 </resources>
